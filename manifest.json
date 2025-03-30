@@ -1,0 +1,16 @@
+
+{
+  "name": "강환국 채널 영상 요약",
+  "short_name": "영상 요약",
+  "description": "강환국 채널에서 업로드된 코인 관련 영상을 자동으로 확인하고 요약합니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/static/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
